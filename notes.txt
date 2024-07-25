@@ -1,0 +1,2 @@
+https://docs.gitlab.com/ee/ci/runners/hosted_runners/gpu_enabled.html
+https://docs.gitlab.com/runner/configuration/gpus.html
